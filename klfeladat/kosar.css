@@ -1,6 +1,59 @@
 #tovabb{
 	position:relative;
-	top:-39px;
-	left:580px;
-	width:120px;
+	top:-39pt;
+	left:580pt;
+	width:120pt;
+	margin: -35pt;
+	padding: 15pt;
+	background-color: rgba(255, 165, 0, 0.6);
+	color: white;
+}
+#tovabb :hover
+{
+	background-color: black;
+}
+
+p
+{
+	text-align: justify;
+}
+
+.felkover
+{
+	font-weight: bold;
+}
+
+#tartalom
+{
+	width: 600pt;
+	margin-top: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table
+{
+	width: 500pt;
+
+}
+
+td
+{
+	width: 75pt;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+h1
+{
+	border-bottom: 1pt solid lightgray;
 }
